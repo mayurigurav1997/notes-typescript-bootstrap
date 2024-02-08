@@ -1,10 +1,10 @@
 import React from 'react'
 
-const CreateNotes = () => {
+type Props = {}
+
+const CreateNotes = (props: Props) => {
   return (
-    <div>
-      
-    </div>
+    <div>CreateNotes</div>
   )
 }
 
